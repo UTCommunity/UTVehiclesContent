@@ -1,0 +1,1 @@
+As described in the License Agreement, users may use, reproduce, and modify the Unreal Tournament Assets in this folder or subfolders for the sole purpose of creating Unreal Tournament Submissions for the Unreal Tournament Project.
