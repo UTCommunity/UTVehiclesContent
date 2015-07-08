@@ -1,8 +1,15 @@
-﻿UTVehiclesContent
+UTVehiclesContent
 =================
+[![Slack](http://utvehicles-slack.herokuapp.com/badge.svg)](http://utvehicles-slack.herokuapp.com/)
+[![downloads](https://img.shields.io/github/downloads/UTCommunity/UTVehicles/latest/total.svg)](https://github.com/UTCommunity/UTVehicles/releases/latest)
+[![issues](https://img.shields.io/github/issues/UTCommunity/UTVehiclesContent.svg)](https://github.com/UTCommunity/UTVehicles/issues)
+[![tag](https://img.shields.io/github/tag/UTCommunity/UTVehicles.svg)](https://github.com/UTCommunity/UTVehicles/tags)
+[![releases](https://img.shields.io/github/release/UTCommunity/UTVehicles.svg)](https://github.com/UTCommunity/UTVehicles/releases)
+[![license](https://img.shields.io/badge/license-UE4%2FUT-blue.svg)](https://www.unrealengine.com/eula)
+
 Assets of the vehicle framework UTVehicles for [Unreal Tournament](www.unrealtournament.com/)
 
-This repository is a part of the *UTVehicles*-plugin which consists of the **code part** and the **asset part**. You can find the code repository in its [latest state here](https://github.com/UTCommunity/UTVehicles). Thisrepository is included as a sub-module in the code repo called [Content](Content/) which points to a specific state (to feature full compatibility to the code).
+This repository is part of the *UTVehicles*-plugin which consists of the **code part** and the **asset part**. You can find the code repository in its [latest state here](https://github.com/UTCommunity/UTVehicles). This repository is included as a sub-module in the code repo called [Content](Content/) which points to a specific state (to feature full compatibility to the code).
 
 **You want to be part of the development team?** Join us! [![Join the UT Vehicles Community on Slack](http://utvehicles-slack.herokuapp.com/badge.svg)](http://utvehicles-slack.herokuapp.com/)
 
